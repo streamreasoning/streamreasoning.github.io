@@ -8,7 +8,6 @@ title: "Web Stream Processing with RSP4J and OntopStream"
 date: "2021-12-20"
 ---
 
-<table><tbody><tr><td><br></td></tr></tbody></table>
 
 ### Abstract
 
@@ -55,30 +54,30 @@ Matteo Belcao is an IT consultant and researcher at Quantia Consulting. He holds
 #### Part 2: Streaming Knowledge Graphs in practice with RSP4J
 
 - RSP engines and their relation to RSP-QL
-    - C-SPARQL
-    - CQELS
-    - YASPER
+  - C-SPARQL
+  - CQELS
+  - YASPER
 - RSP4J internals
 - RSP4J components
-    - Stream-to-Relation
-    - Relation-to-Relation
-    - Relation-to-Stream
+  - Stream-to-Relation
+  - Relation-to-Relation
+  - Relation-to-Stream
 - Demos and Exercises
-    - Writing RSP-QL queries
-    - Building a custom RSP engine
-    - Creating RSP4J components
+  - Writing RSP-QL queries
+  - Building a custom RSP engine
+  - Creating RSP4J components
 
 #### Part 3: Virtual Streaming Knowledge Graphs in practice using OntopStream
 
 - OntopStream internals
 - OntopStream components
 - Demos and Exercises
-    - Virtual Knowledge Graphs
-    - Querying Virtual Knowledge Graphs
+  - Virtual Knowledge Graphs
+  - Querying Virtual Knowledge Graphs
 
 - Conclusion
-    - 10 years later!
-    - What comes next?
+  - 10 years later!
+  - What comes next?
 
 #### Support
 

@@ -1,25 +1,41 @@
-# Contributing to al-folio
-Thank you for considering to contribute to al-folio!
+# Contributing to streamreasoning.org
+
+Thank you for considering to contribute to our webiste.
+
+We welcome your pull requests (PRs). For minor fixes and improvements, adding additional resources, advertising related events, and acknoweledging your presence in the community!
+
+## In order to suggest your edit
+
+- fork the repository
+- implement one the allowed edit
+- send us a pull request
 
 
-## Pull Requests
-We welcome your pull requests (PRs).
-For minor fixes (e.g., documentation improvements), feel free to submit a PR directly.
-If you would like to implement a new feature or a bug, please make sure you (or someone else) has opened an appropriate issue first; in your PR, please mention the issue it addresses.
+### Adding a community member
+
+```yml
+"Name":
+  - firstname: ["Name Lastname", "Name", "Lastname", "N.", "N. L."]
+    url: http://mywebsite.org
+    img: an externally uploaded image (size?)
+    title: what is your job title?
+    affiliation: where do you work?
+```
+
+### Adding a recent publication
 
 
-## Issues
-We use GitHub issues to track bugs and feature requests.
-Before submitting an issue, please make sure:
+### Adding a resource
 
-1. You have read [the FAQ section](https://github.com/alshedivat/al-folio#faq) of the README and your question is NOT addressed there.
-2. You have done your best to ensure that your issue is NOT a duplicate of one of [the previous issues](https://github.com/alshedivat/al-folio/issues).
-3. Your issue is either a bug (unexpected/undesirable behavior) or a feature request.
-If it is just a question, please ask it in the [Discussions](https://github.com/alshedivat/al-folio/discussions) forum.
+### Advertise an event
 
-When submitting an issue, please make sure to use the appropriate template.
+### 
+
+
+
+
 
 
 ## License
-By contributing to al-folio, you agree that your contributions will be licensed
+By contributing to this website, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of the source tree.

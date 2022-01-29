@@ -4,7 +4,7 @@ title: open-source
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [software, ontologies, benchmarks]
 horizontal: false
 ---
 
