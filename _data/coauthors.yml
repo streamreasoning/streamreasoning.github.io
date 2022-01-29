@@ -1,18 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Della Valle":
+  - firstname: ["Emanuele Della Valle", "Emanuele", "E.", "E. Della Valle"]
+    url: http://emanueledellavalle.org
+    img: http://emanueledellavalle.org/wp-content/uploads/2017/12/21272149_10155761533993000_8534890850067734530_n.jpg
+    title: Associate Professor
+    affiliation: Politecnico di Milano
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Tommasini":
+  - firstname: ["Riccardo Tommasini", "Riccardo", "R.", "R. T."]
+    url: http://riccardotommasini.com
+    img: https://riccardotommasini.com/assets/images/avatar2021.jpg
+    title: Associate Professor
+    affiliation: INSA Lyon
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Balduini":
+  - firstname: ["Marco Balduini","Marco", "M. B."]
+    url: http://marcobalduini.com
+    img: assets/img/marco.jpg
+    title: Industrial Researcher
+    affiliation: Quantia Consulting
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Bonte": 
+  - firstname: ["Pieter Bonte", "P. B."]
+    url: http://pieterbonte.be
+    img: https://pbonte.github.io/authors/admin/avatar_hu0ec05eb1796912ef0d58266d8f145dc9_18847_270x270_fill_q75_lanczos_center.jpg
+    title: Post Doctoral Researcher
+    affiliation: Ghent University - imec
+
+"Dell'Aglio": 
+  - firstname: ["Daniele Dell'Aglio", "D. Dell'Aglio"]
+    url: http://dellaglio.org
+    img: http://dellaglio.org/images/me.jpg
+    title: Assistant Professor
+    affiliation: Aalborg University

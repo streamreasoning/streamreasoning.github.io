@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Stream Reasoning # the website title (if blank, full name will be used instead)
+first_name: 
+middle_name: 
+last_name: 
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Reasoning upon rapidly changing information flows.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -83,16 +83,16 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+# blog_name: sr.org  # your blog must have a name for it to show up in the nav bar
+# blog_description: the stream reasoning comunity website
+# permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+  # enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -105,9 +105,20 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  cfp:
+    defaults:
+      layout: post
+    output: true
+    permalink: /cfp/:path/
   projects:
     output: true
     permalink: /projects/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
 
 news_limit: 5
 
@@ -195,7 +206,7 @@ jekyll-archives:
   permalinks:
     year: '/blog/:year/'
     tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    category: '/news/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
