@@ -24,6 +24,9 @@ We welcome your pull requests (PRs). For minor fixes and improvements, adding ad
 
 ### Adding a recent publication
 
+Edit the fild [./_bibliography/papers.bib] adding your paper.
+Please verify the paper is not already included in the list.
+
 
 ### Adding a resource
 

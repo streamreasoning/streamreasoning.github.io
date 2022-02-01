@@ -9,7 +9,7 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-{%- for y in (page.from...page.to) reversed %}
+{%- for y in (page.from..page.to) reversed %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
