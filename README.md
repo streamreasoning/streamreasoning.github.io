@@ -3,4 +3,4 @@
 
 The community website!
 
-Consier send us your [contribution](./CONTRIBUTING.md)
+Consider send us your [contribution](./CONTRIBUTING.md)
