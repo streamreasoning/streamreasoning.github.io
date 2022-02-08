@@ -76,12 +76,14 @@
 
 "Mileo":
   - firstname: ["Alessandra Mileo", "Mileo", "Alessandra", "A."]
-    url: 
-    
+    url: https://www.dcu.ie/computing/people/alessandra-mileo
+    img: https://www.dcu.ie/sites/default/files/styles/max_1300x1300/public/2021-09/alessandra-mileo.jpeg?itok=HHwzw5PZ
+    title: Assistant Professor
+    affiliation:  INSIGHT Centre for Data Analytics
 
 "Ongenae":
   - firstname: ["Femke Ongenae", "Ongenae", "Femke", "F. O."]
-    img: https://lh5.googleusercontent.com/oscQUqRw_cce4I-68QjWxLx_cenmcWIjs3vlOSw_hKBXxtyLV4Ray0Hl8f9mhr66eXJ99A=w1280
+    img: assets/img/femke.png
     url: https://sites.google.com/view/femkeongenae
     title: Assistant Professor and Senior scientist
     affiliation: Ghent University and imec
