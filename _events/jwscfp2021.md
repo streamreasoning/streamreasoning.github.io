@@ -1,11 +1,12 @@
 ---
 layout: page
 title: JWS special Issue on Making Sense of Stream Data
-description: a project with a background image
-img: assets/img/12.jpg
+description: Call for Paper
+img: assets/img/cfp-cover.png
 importance: 1
 category: cfp
 ---
+
 
 ## Call for Papers
 
