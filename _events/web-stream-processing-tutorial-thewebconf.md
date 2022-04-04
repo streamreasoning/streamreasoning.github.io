@@ -79,6 +79,9 @@ Matteo Belcao is an IT consultant and researcher at Quantia Consulting. He holds
   - 10 years later!
   - What comes next?
 
+#### Tutorial Material
+All material (slides and exercises) can be found on the [accompanied Github Repository](https://github.com/pbonte/WSP-TheWebConf2022Tutorial).
+
 #### Support
 
 Join the StreamReasoning Slack #RWChallenge Channel
