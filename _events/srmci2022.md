@@ -10,7 +10,7 @@ date: "2020-10-18"
 
 ## Aims and Scope
 
-  After the successful <a href="https://streamreasoning.org/">Stream Reasoning</a> workshops in the previous years,
+  After the successful <a href="https://streamreasoning.org/events/">Stream Reasoning</a> workshops in the previous years,
   we invite you to a spinoff of the main workshop with a focus on
   bringing practitioner and researcher from industry and academia together.
   The workshop is **invitation-only**, **free-of-charge**, and will be held at Siemens
@@ -54,11 +54,10 @@ date: "2020-10-18"
 <br>
 
 <em>16:00 - 18:00</em> &nbsp; Talks (Robotics and AV)
-<br><br>
+<br>
 
 <b>Evening:</b> Social Event
-
-<br><br>
+<br>
 
 <b>Wednesday, October 19</b>
 <br>
@@ -131,5 +130,5 @@ arriving by plane, train, bus, or car. Otherwise, there is plenty of information
 The event is sponsored by the research groups CED EWT-DE and DAI SMR-DE of
 Siemens Technology and TU Berlin, Department of Telecommunication Systems
 
- <img src="assets/img/siemens.png" alt="Logo Siemens" style="width:250px;height:100px;">
- <img src="assets/img/tub.png" alt="Logo TU Berlin" style="width:200px;height:100px;">
+ <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:250px;height:100px;">
+ <img src="/assets/img/tub.png" alt="Logo TU Berlin" style="width:200px;height:100px;">
