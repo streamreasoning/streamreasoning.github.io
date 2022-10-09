@@ -52,7 +52,7 @@ date: "2020-10-18"
 
 <em>14:30 - 16:15</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
 - Jorge-Arnulfo Quiané-Ruiz: Blossom Sky - Towards a Data Processing Engine Above the Clouds
-- Kien Tran Trung: Towards Neural-symbolic Aapproaches for Knowledge Graphs
+- Kien Tran Trung: Towards Neural-symbolic Approaches for Knowledge Graphs
 - Yongluan Zhou: Data Management for Event-Driven Microservices in Cloud-Edge Environments
 - Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge
 
@@ -62,7 +62,7 @@ date: "2020-10-18"
 <em>16:45 - 18:00</em> &nbsp; **Talks:** Robotics and Autonomous Vehicles
 - Jens Lambrecht: Cloud Robotics - Autonomous Navigation & AI as a Service
 - Anh Le Tuan and Manh Nguyen Duc: Declarative Perception with Semantic Streams
-- David Bowden: Semantic SLAM – a multiagent hive mind
+- David Bowden: Semantic SLAM – A Multiagent Hive Mind
 
 <b>Evening:</b> Social Dinner
 <br>
@@ -81,7 +81,7 @@ date: "2020-10-18"
 <br>
 
 <em>11:30 - 12:20</em> &nbsp; **Talks:** Stream Reasoning Methods
-- Alexander Artikis: Stream Reasoning for Complex event recognition
+- Alexander Artikis: Stream Reasoning for Complex Event Recognition
 - Jacopo Urbani: Towards Stream Reasoning with Composite AI
 
 <em>12:20 - 13:30</em> &nbsp; Lunch (on-site)
