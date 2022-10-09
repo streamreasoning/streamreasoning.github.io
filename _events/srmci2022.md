@@ -37,65 +37,65 @@ date: "2020-10-18"
 
 <em>10:00 - 10:15</em>  &nbsp; Opening
 
-<em>10:15 - 11:15</em>  &nbsp; <span class="title-color"> **Keynote 1** - Sebastian Brandt (Siemens Technology): Ontology-based access to temporal data </span>
+<em>10:15 - 11:15</em>  &nbsp; <span class="title-color"> **Keynote 1:** Sebastian Brandt (Siemens Technology) - Ontology-based Access to Temporal Data </span>
 <br>
 
-<em>11:15 - 12:00</em> &nbsp; Talks (Industry 4.0)
-- Haoyu Ren: On-device stream reasoning in industrial IoT
-- Xuan Thuy Dang: Cloud-edge continuum towards autonomous manufacturing
+<em>11:15 - 12:00</em> &nbsp; **Talks:** Industry 4.0
+- Haoyu Ren: On-device Stream Reasoning in Industrial IoT
+- Xuan Thuy Dang: Cloud-edge Continuum Towards Autonomous Manufacturing
 
 <em>12:00 - 13:30</em> &nbsp; Lunch (on-site)
 <br>
 
-<em>13:30 - 14:30</em> &nbsp; <span class="title-color"> **Keynote 2** - Emanuele Della Valle  (Politecnico di Milano): motus.ml: never stop learning at the edge </span>
+<em>13:30 - 14:30</em> &nbsp; <span class="title-color"> **Keynote 2:** Emanuele Della Valle (Politecnico di Milano) - motus.ml: Never Stop Learning at the Edge </span>
 <br>
 
-<em>14:30 - 16:15</em> &nbsp; Talks (Platforms, Tools, and Solutions)
+<em>14:30 - 16:15</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
 - Jorge-Arnulfo Quiané-Ruiz: Blossom Sky - Towards a Data Processing Engine Above the Clouds
-- Kien Tran Trung: Towards neural-symbolic approaches for knowledge graphs
+- Kien Tran Trung: Towards Neural-symbolic Aapproaches for Knowledge Graphs
 - Yongluan Zhou: Data Management for Event-Driven Microservices in Cloud-Edge Environments
 - Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge
 
 <em>16:15 - 16:45</em> &nbsp; Coffee Break
 <br>
 
-<em>16:45 - 18:00</em> &nbsp; Talks (Robotics and Autonomous Vehicles)
+<em>16:45 - 18:00</em> &nbsp; **Talks:** Robotics and Autonomous Vehicles
 - Jens Lambrecht: Cloud Robotics - Autonomous Navigation & AI as a Service
 - Anh Le Tuan and Manh Nguyen Duc: Declarative Perception with Semantic Streams
 - David Bowden: Semantic SLAM – a multiagent hive mind
 
-<b>Evening:</b> Social Event
+<b>Evening:</b> Social Dinner
 <br>
 
 <b>Wednesday, October 19</b>
 <br>
 
-<em>09:00 - 10:00</em> &nbsp; <span class="title-color"> **Keynote 3** -  Manolis Koubarakis (National and Kapodistrian University of Athens): A data science pipeline for big, linked Earth observation data</span>
+<em>09:00 - 10:00</em> &nbsp; <span class="title-color"> **Keynote 3:** Manolis Koubarakis (National and Kapodistrian University of Athens) - A Data Science Pipeline for Big, Linked Earth Observation Data</span>
 <br>
 
-<em>10:00 - 10:50</em> &nbsp; Talks (Autonomous Driving and Smart City)
+<em>10:00 - 10:50</em> &nbsp; **Talks:** Autonomous Driving and Smart City
 - Haonan Qiu: Ontology-Based Map Modelling and Processing for Autonomous Vehicles
-- Kari Koskinen and Iissakki Kosonen: Jätkäsaari Smart Junction as testing platform for SmartEdge
+- Kari Koskinen and Iissakki Kosonen: Jätkäsaari Smart Junction as Testing Platform for SmartEdge
 
 <em>10:50 - 11:20</em> &nbsp; Coffee Break
 <br>
 
-<em>11:30 - 12:20</em> &nbsp; Talks (Stream Reasoning Methods)
-- Alexander Artikis: Stream reasoning for complex event recognition
+<em>11:30 - 12:20</em> &nbsp; **Talks:** Stream Reasoning Methods
+- Alexander Artikis: Stream Reasoning for Complex event recognition
 - Jacopo Urbani: Towards Stream Reasoning with Composite AI
 
 <em>12:20 - 13:30</em> &nbsp; Lunch (on-site)
 <br>
 
-<em>13:30 - 14:45</em> &nbsp; Talks (Data Analytics and AI)
+<em>13:30 - 14:45</em> &nbsp; **Talks:** Data Analytics and AI
 - Evgeny Kharlamov: Unlocking the Value of Manufacturing Data with Semantics at Bosch
 - Mourad Khayati: Holistic Data Repair - Reconcile Speed with Quality to Recover Missing Values in Sensor Data
-- Alessio Carenini and Marco Comerio: Challenges in data harmonisation, fusion, and validation: the Chimera framework
+- Alessio Carenini and Marco Comerio: Challenges in Data Harmonisation, Fusion, and Validation - the Chimera framework
 
 <em>15:45 - 16:15</em> &nbsp; Coffee Break
 <br>
 
-<em>16:15 - 17:30</em> &nbsp; Talks (Platforms, Tools, and Solutions)
+<em>16:15 - 17:30</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
 - Eleni Tsalapati: A KG-based System for Early System Diagnosis
 - Theofilos Mailis: Query Acceleration over Knowledge Graphs in Triple Stores
 - Elena Petrova: Swarm intelligence of Personal Virtual Assistants
@@ -141,7 +141,7 @@ arriving by plane, train, bus, or car. Otherwise, there is plenty of information
 
 ## Sponsors and Host
 
-The event is sponsored by the research groups CED EWT-DE and DAI SMR-DE of
+The event is sponsored and supported by the research groups CED EWT-DE, DAI SMR-DE, and DAI CON-AT of
 Siemens Technology and TU Berlin, Department of Telecommunication Systems
 
  <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:250px;height:100px;">
