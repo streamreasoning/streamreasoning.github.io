@@ -32,7 +32,7 @@ date: "2020-10-18"
 
 ## Workshop schedule
 
-<b>Tuesday, October 18</b>
+**Tuesday, October 18**
 <br>
 
 <em>10:00 - 10:15</em>  &nbsp; Opening
@@ -67,7 +67,7 @@ date: "2020-10-18"
 <b>Evening:</b> Social Dinner
 <br>
 
-<b>Wednesday, October 19</b>
+**Wednesday, October 19**
 <br>
 
 <em>09:00 - 10:00</em> &nbsp; <span class="title-color"> **Keynote 3:** Manolis Koubarakis (National and Kapodistrian University of Athens) - A Data Science Pipeline for Big, Linked Earth Observation Data</span>
@@ -77,7 +77,7 @@ date: "2020-10-18"
 - Haonan Qiu: Ontology-Based Map Modelling and Processing for Autonomous Vehicles
 - Kari Koskinen and Iissakki Kosonen: Jätkäsaari Smart Junction as Testing Platform for SmartEdge
 
-<em>10:50 - 11:20</em> &nbsp; Coffee Break
+<em>10:50 - 11:30</em> &nbsp; Coffee Break
 <br>
 
 <em>11:30 - 12:20</em> &nbsp; **Talks:** Stream Reasoning Methods
