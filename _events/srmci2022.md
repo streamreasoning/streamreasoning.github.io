@@ -41,8 +41,8 @@ date: "2020-10-18"
 <br>
 
 <em>11:15 - 12:00</em> &nbsp; **Talks:** Industry 4.0
-- Haoyu Ren: On-device Stream Reasoning in Industrial IoT
-- Xuan Thuy Dang: Cloud-edge Continuum Towards Autonomous Manufacturing
+- Haoyu Ren (Siemens Technology): On-device Stream Reasoning in Industrial IoT
+- Xuan Thuy Dang (Murrelektronik GmbH): Cloud-edge Continuum Towards Autonomous Manufacturing
 
 <em>12:00 - 13:30</em> &nbsp; Lunch (on-site)
 <br>
@@ -51,18 +51,18 @@ date: "2020-10-18"
 <br>
 
 <em>14:30 - 16:15</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
-- Jorge-Arnulfo Quiané-Ruiz: Blossom Sky - Towards a Data Processing Engine Above the Clouds
-- Kien Tran Trung: Towards Neural-symbolic Approaches for Knowledge Graphs
-- Yongluan Zhou: Data Management for Event-Driven Microservices in Cloud-Edge Environments
-- Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge
+- Jorge-Arnulfo Quiané-Ruiz (Databloom AI): Blossom Sky - Towards a Data Processing Engine Above the Clouds
+- Kien Tran Trung (Bosch Center for AI): Towards Neural-symbolic Approaches for Knowledge Graphs
+- Yongluan Zhou (University of Copenhagen): Data Management for Event-Driven Microservices in Cloud-Edge Environments
+- Daniel Schraudner (FAU Nürnberg): Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge
 
 <em>16:15 - 16:45</em> &nbsp; Coffee Break
 <br>
 
 <em>16:45 - 18:00</em> &nbsp; **Talks:** Robotics and Autonomous Vehicles
-- Jens Lambrecht: Cloud Robotics - Autonomous Navigation & AI as a Service
-- Anh Le Tuan and Manh Nguyen Duc: Declarative Perception with Semantic Streams
-- David Bowden: Semantic SLAM – A Multiagent Hive Mind
+- Jens Lambrecht (Gestalt Robotics): Cloud Robotics - Autonomous Navigation & AI as a Service
+- Anh Le Tuan and Manh Nguyen Duc (TU Berlin): Declarative Perception with Semantic Streams
+- David Bowden (Dell EMC): Semantic SLAM – A Multiagent Hive Mind
 
 <b>Evening:</b> Social Dinner
 <br>
@@ -74,31 +74,31 @@ date: "2020-10-18"
 <br>
 
 <em>10:00 - 10:50</em> &nbsp; **Talks:** Autonomous Driving and Smart City
-- Haonan Qiu: Ontology-Based Map Modelling and Processing for Autonomous Vehicles
-- Kari Koskinen and Iissakki Kosonen: Jätkäsaari Smart Junction as Testing Platform for SmartEdge
+- Haonan Qiu (BMW): Ontology-Based Map Modelling and Processing for Autonomous Vehicles
+- Kari Koskinen and Iissakki Kosonen (Conveqs): Jätkäsaari Smart Junction as Testing Platform for SmartEdge
 
 <em>10:50 - 11:30</em> &nbsp; Coffee Break
 <br>
 
 <em>11:30 - 12:20</em> &nbsp; **Talks:** Stream Reasoning Methods
-- Alexander Artikis: Stream Reasoning for Complex Event Recognition
-- Jacopo Urbani: Towards Stream Reasoning with Composite AI
+- Alexander Artikis (NCSR "Demokritos"): Stream Reasoning for Complex Event Recognition
+- Jacopo Urbani (Vrije Universiteit Amsterdam): Towards Stream Reasoning with Composite AI
 
 <em>12:20 - 13:30</em> &nbsp; Lunch (on-site)
 <br>
 
 <em>13:30 - 14:45</em> &nbsp; **Talks:** Data Analytics and AI
-- Evgeny Kharlamov: Unlocking the Value of Manufacturing Data with Semantics at Bosch
-- Mourad Khayati: Holistic Data Repair - Reconcile Speed with Quality to Recover Missing Values in Sensor Data
-- Alessio Carenini and Marco Comerio: Challenges in Data Harmonisation, Fusion, and Validation - the Chimera framework
+- Evgeny Kharlamov (Bosch Center for AI): Unlocking the Value of Manufacturing Data with Semantics at Bosch
+- Mourad Khayati (eXascale Infolab): Holistic Data Repair - Reconcile Speed with Quality to Recover Missing Values in Sensor Data
+- Alessio Carenini and Marco Comerio (Cefriedl): Challenges in Data Harmonisation, Fusion, and Validation - the Chimera framework
 
 <em>15:45 - 16:15</em> &nbsp; Coffee Break
 <br>
 
 <em>16:15 - 17:30</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
-- Eleni Tsalapati: A KG-based System for Early System Diagnosis
-- Theofilos Mailis: Query Acceleration over Knowledge Graphs in Triple Stores
-- Elena Petrova: Swarm intelligence of Personal Virtual Assistants
+- Eleni Tsalapati (National and Kapodistrian University of Athens): A KG-based System for Early System Diagnosis
+- Theofilos Mailis (National and Kapodistrian University of Athens): Query Acceleration over Knowledge Graphs in Triple Stores
+- Elena Petrova (Industrial Management Consulting Slovakia): Swarm intelligence of Personal Virtual Assistants
 
 <em>17:30 - 17:50</em> &nbsp; Wrap up and Conclusions
 
@@ -142,7 +142,7 @@ arriving by plane, train, bus, or car. Otherwise, there is plenty of information
 ## Sponsors and Host
 
 The event is sponsored and supported by the research groups CED EWT-DE, DAI SMR-DE, and DAI CON-AT of
-Siemens Technology and TU Berlin, Department of Telecommunication Systems
+Siemens Technology and BIFOLD, TU Berlin.
 
  <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:250px;height:100px;">
  <img src="/assets/img/tub.png" alt="Logo TU Berlin" style="width:200px;height:100px;">
