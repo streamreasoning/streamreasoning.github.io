@@ -145,5 +145,5 @@ arriving by plane, train, bus, or car. Otherwise, there is plenty of information
 The event is sponsored and supported by the research groups CED EWT-DE, DAI SMR-DE, and DAI CON-AT of
 Siemens Technology and BIFOLD, TU Berlin.
 
- <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:628px;height:100px;">
+ <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:419px;height:66px;">
  <img src="/assets/img/tub.png" alt="Logo TU Berlin" style="width:200px;height:100px;">
