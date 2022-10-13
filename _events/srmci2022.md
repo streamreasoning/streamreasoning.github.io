@@ -105,8 +105,9 @@ date: "2020-10-18"
 
 ## Venue
 
-The workshop will be held **on-site** at Siemens Technology, Otto-Hahn-Ring 6, 81739 München
-(see on <a href="https://goo.gl/maps/tKD6XT6gwYUeYUAv6">Google Maps</a>).
+The workshop is held **on-site** at Siemens Technology, Otto-Hahn-Ring 6, 81739 München
+ in room 53.431 of building 53 on the 4th floor (see on <a href="https://goo.gl/maps/HSFvAvcAAqFojVFr5">Google Maps</a>).
+
 Easiest to reach is by train line S7 and metro line U5 with destination
 <a href="https://www.mvv-muenchen.de/plaene-bahnhoefe/bahnhofsinformation/station/neuperlach-sued/index.html">Neuperlach Süd</a>.
 After arriving, take the southern exit and turn directly left, which brings you to a side-entrance of the campus.
@@ -144,5 +145,5 @@ arriving by plane, train, bus, or car. Otherwise, there is plenty of information
 The event is sponsored and supported by the research groups CED EWT-DE, DAI SMR-DE, and DAI CON-AT of
 Siemens Technology and BIFOLD, TU Berlin.
 
- <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:250px;height:100px;">
+ <img src="/assets/img/siemens.png" alt="Logo Siemens" style="width:628px;height:100px;">
  <img src="/assets/img/tub.png" alt="Logo TU Berlin" style="width:200px;height:100px;">
