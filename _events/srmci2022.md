@@ -112,6 +112,8 @@ Easiest to reach is by train line S7 and metro line U5 with destination
 <a href="https://www.mvv-muenchen.de/plaene-bahnhoefe/bahnhofsinformation/station/neuperlach-sued/index.html">Neuperlach Süd</a>.
 After arriving, take the southern exit and turn directly left, which brings you to a side-entrance of the campus.
 
+In case you have any questions, feel free to contact the local organisers Darko Anicic: darko.anicic(at)siemens.com and
+Patrik Schneider: patrick-schneider(at)siemens.com. For emergencies you also can reach us under: +49 174 4912028
 
 ## Accomodation and Travel
 
@@ -131,6 +133,7 @@ requires only 17min.
 Please check on <a href="https://en.wikivoyage.org/wiki/Munich">Wikivoyage</a> for details on
 arriving by plane, train, bus, or car. Otherwise, there is plenty of information on the official site of
  <a href="https://www.munich.travel/en">Munich</a>.
+
 
 ## Organizers
 
