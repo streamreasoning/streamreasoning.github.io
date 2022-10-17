@@ -8,6 +8,8 @@ title: "Stream Reasoning meets Cloud-Edge Intelligence Workshop 2022"
 date: "2020-10-18"
 ---
 
+** Note that for mitigating the SARS-CoV-2 risks of the workshop attendance, we provide free rapid antigen self-tests at registration. **
+
 ## Aims and Scope
 
   After the successful <a href="https://streamreasoning.org/events/">Stream Reasoning</a> workshops in the previous years,
