@@ -66,7 +66,7 @@ date: "2020-10-18"
 - Anh Le Tuan and Manh Nguyen Duc (TU Berlin): Declarative Perception with Semantic Streams
 - David Bowden (Dell EMC): Semantic SLAM – A Multiagent Hive Mind
 
-<b>Evening:</b> Social Dinner will be held at <a href="https://www.zum-franziskaner.de/">"Zum Franziskaner"</a>close to the opera.
+<b>Evening:</b> Social Dinner will be held at <a href="https://www.zum-franziskaner.de/">"Zum Franziskaner"</a>close to the opera, we will meet at 20:00 directly there.
 <br>
 
 **Wednesday, October 19**
