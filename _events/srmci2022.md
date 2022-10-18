@@ -66,7 +66,7 @@ date: "2020-10-18"
 - Anh Le Tuan and Manh Nguyen Duc (TU Berlin): Declarative Perception with Semantic Streams
 - David Bowden (Dell EMC): Semantic SLAM – A Multiagent Hive Mind
 
-<b>Evening:</b> Social Dinner
+<b>Evening:</b> Social Dinner will be held at <a href="https://www.zum-franziskaner.de/">"Zum Franziskaner"</a>close to the opera.
 <br>
 
 **Wednesday, October 19**
@@ -97,12 +97,12 @@ date: "2020-10-18"
 <em>15:45 - 16:15</em> &nbsp; Coffee Break
 <br>
 
-<em>16:15 - 17:30</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
+<em>16:15 - 17:10</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
 - Eleni Tsalapati (National and Kapodistrian University of Athens): A KG-based System for Early System Diagnosis
 - Theofilos Mailis (National and Kapodistrian University of Athens): Query Acceleration over Knowledge Graphs in Triple Stores
-- Elena Petrova (Industrial Management Consulting Slovakia): Swarm intelligence of Personal Virtual Assistants
+- ~~Elena Petrova (Industrial Management Consulting Slovakia): Swarm intelligence of Personal Virtual Assistants~~
 
-<em>17:30 - 17:50</em> &nbsp; Wrap up and Conclusions
+<em>17:10 - 17:30</em> &nbsp; Wrap up and Conclusions
 
 
 ## Venue
