@@ -94,15 +94,15 @@ date: "2020-10-18"
 - Mourad Khayati (eXascale Infolab): Holistic Data Repair - Reconcile Speed with Quality to Recover Missing Values in Sensor Data
 - Alessio Carenini and Marco Comerio (Cefriedl): Challenges in Data Harmonisation, Fusion, and Validation - the Chimera framework
 
-<em>15:45 - 16:15</em> &nbsp; Coffee Break
+<em>14:45 - 15:30</em> &nbsp; Coffee Break
 <br>
 
-<em>16:15 - 17:10</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
+<em>15:30 - 16:20</em> &nbsp; **Talks:** Platforms, Tools, and Solutions
 - Eleni Tsalapati (National and Kapodistrian University of Athens): A KG-based System for Early System Diagnosis
 - Theofilos Mailis (National and Kapodistrian University of Athens): Query Acceleration over Knowledge Graphs in Triple Stores
 - ~~Elena Petrova (Industrial Management Consulting Slovakia): Swarm intelligence of Personal Virtual Assistants~~
 
-<em>17:10 - 17:30</em> &nbsp; Wrap up and Conclusions
+<em>16:20 - 16:40</em> &nbsp; Wrap up and Conclusions
 
 
 ## Venue
