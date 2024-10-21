@@ -19,8 +19,8 @@
   - firstname: ["Pieter Bonte", "P. B.", "Pieter", "Bonte"]
     url: http://pieterbonte.be
     img: https://pbonte.github.io/authors/admin/avatar_hu0ec05eb1796912ef0d58266d8f145dc9_18847_270x270_fill_q75_lanczos_center.jpg
-    title: Post Doctoral Researcher
-    affiliation: Ghent University - imec
+    title: Assistant Professor
+    affiliation: KU Leuven
 
 "Calbimonte":
   - firstname: ["Jean-Paul Calbimonte", "J.P", "Calbimonte", "Jean-Paul"]
@@ -78,7 +78,7 @@
   - firstname: ["Alessandra Mileo", "Mileo", "Alessandra", "A."]
     url: https://www.dcu.ie/computing/people/alessandra-mileo
     img: https://www.dcu.ie/sites/default/files/styles/max_1300x1300/public/2021-09/alessandra-mileo.jpeg?itok=HHwzw5PZ
-    title: Assistant Professor
+    title: Associate Professor
     affiliation:  INSIGHT Centre for Data Analytics
 
 "Ongenae":
