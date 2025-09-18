@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://streamreasoning.github.io/" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Stream Reasoning | Page not found</title>
+    <title>Stream Reasoning | C-SPARQL Engine</title>
     <meta name="author" content="  " />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="a project with no image" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://streamreasoning.github.io/404.html">
+    <link rel="canonical" href="https://streamreasoning.github.io/projects/csparql/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -101,12 +101,105 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">C-SPARQL Engine</h1>
+            <p class="post-description">a project with no image</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://streamreasoning.github.io/">here</a>.</p>
+            <h1 id="continuous-sparql-c-sparql">Continuous SPARQL (C-SPARQL)</h1>
+
+<p>C-SPARQL is a new language for continuous queries over streams of RDF data. C-SPARQL queries consider windows, i.e., the most recent triples of such streams, observed while data is continuously flowing. Supporting streams in RDF format guarantees interoperability and opens up important applications, in which reasoners can deal with knowledge evolving over time. Examples of such application domains include real-time reasoning over sensors, urban computing, and social semantic data. Hereafter you can download a “ready to go pack” to start using C-SPARQL yourself.</p>
+
+<h2 id="download">Download</h2>
+
+<ul>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.9.6.zip">CSPARQL-ReadyToGoPack-0.9.6</a> released on 23.11.2015</li>
+</ul>
+
+<p>Older versions:</p>
+
+<ul>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.9.zip">CSPARQL-ReadyToGoPack-0.9</a> released on 5.5.2013</li>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.8.zip">CSPARQL-ReadyToGoPack-0.8</a> released on 30.3.2013</li>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.7.4.zip">CSPARQL-ReadyToGoPack-0.7.4</a> released on 9.5.2012</li>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.7.3.zip">CSPARQL-ReadyToGoPack-0.7.3</a> released on 18.10.2011</li>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.7.1.zip">CSPARQL-ReadyToGoPack-0.7.1</a> released on 9.6.2011</li>
+  <li>
+<a href="/larkc/csparql/CSPARQL-ReadyToGoPack-0.7.zip">CSPARQL-ReadyToGoPack-0.7</a> released on 30.5.2011</li>
+</ul>
+
+<h2 id="prerequisite">Prerequisite</h2>
+
+<p>C-SPARQL Engine is written in Java 1.6. The “ready to go pack” is an Eclipse project</p>
+
+<h2 id="start-using">Start Using</h2>
+
+<ol>
+  <li>Download the zip</li>
+  <li>Unzip in your Eclipse workspace</li>
+  <li>Import the project in your Eclipse</li>
+  <li>Try to understand the HelloWorldCSPARQL.java class</li>
+</ol>
+
+<h2 id="known-limitation">Known Limitation</h2>
+
+<p>The following features are not supported in this package:</p>
+
+<ul>
+  <li>FROM NAMED clauses</li>
+  <li>COMPUTE EVERY clause</li>
+  <li>timestamp function on named graphs</li>
+  <li>reasoning support (i.e., only simple RDF entailment is supported)</li>
+</ul>
+
+<h2 id="known-bugs">Known Bugs</h2>
+
+<p>Open bugs in version 0.9:</p>
+
+<ul>
+  <li>anonymous nodes are not correctly handled</li>
+  <li>tuple-based windows are not correctly handled</li>
+</ul>
+
+<p>The following bugs where reported on version 0.7, 0.7.1, 0.7.3 and were fixed in version 0.7.4:</p>
+
+<ul>
+  <li>type of typed literals disappear when processed by C-SPARQL <strong>FIXED</strong>
+</li>
+  <li>some IRIs used to identify streams result in a parse error <strong>FIXED</strong>
+</li>
+  <li>queries with multiple FROM STREAM clauses rise an exception <strong>FIXED</strong>
+</li>
+  <li>missing classes exceptions <strong>FIXED</strong>
+</li>
+</ul>
+
+<h2 id="getting-support">Getting Support</h2>
+
+<p>For more information on C-SPARQL language see the Stream Reasoning for Linked Data tutorial that we gave at <a href="events/sr4ld2011">ESWC 2011</a> and <a href="http://www.abdn.ac.uk/%7Ecsc280/tutorial/semtech2011/" target="_blank" rel="noopener noreferrer">SemTech 2011</a> or contact emanuele.dellavalle-at-polimi.it for more.</p>
+
+<h2 id="source-code">Source Code</h2>
+
+<p>The source code of the C-SPARQL Engine and of the ready to go pack are available on github:</p>
+
+<ul>
+  <li><a href="https://github.com/streamreasoning/CSPARQL-engine" target="_blank" rel="noopener noreferrer">https://github.com/streamreasoning/CSPARQL-engine</a></li>
+  <li><a href="https://github.com/streamreasoning/CSPARQL-ReadyToGoPack" target="_blank" rel="noopener noreferrer">https://github.com/streamreasoning/CSPARQL-ReadyToGoPack</a></li>
+</ul>
+
+<h2 id="licence">Licence</h2>
+
+<p>The C-SPARQL Engine and the “ready to go pack” are distributed under <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank" rel="noopener noreferrer">Apache License, Version 2.0</a> in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. Permissions beyond the scope of this license may be available writing to <a href="mailto:emanuele.dellavalle@polimi.it">emanuele.dellavalle@polimi.it</a>.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This work was partially supported by the European projects <a href="http://www.larkc.eu/" target="_blank" rel="noopener noreferrer">LarKC</a> (FP7-215535), and <a href="http://www.modaclouds.eu/" target="_blank" rel="noopener noreferrer">ModaClouds</a> (FP7-ICT-2011-8-318484), and by the <a href="http://www.research.ibm.com/university/pdfs/2013_faculty_award_recipients.pdf" target="_blank" rel="noopener noreferrer">IBM faculty ward 2013</a> grated to prof. Emanuele Della Valle</p>
 
           </article>
 
