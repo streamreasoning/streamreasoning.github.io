@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://streamreasoning.github.io/" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Stream Reasoning | Page not found</title>
+    <title>Stream Reasoning | RSP 2014</title>
     <meta name="author" content="  " />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="a project with a background image" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://streamreasoning.github.io/404.html">
+    <link rel="canonical" href="https://streamreasoning.github.io/events/rsp2014/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -101,12 +101,61 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">RSP 2014</h1>
+            <p class="post-description">a project with a background image</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://streamreasoning.github.io/">here</a>.</p>
+            <h1 id="tutorial-on-rdf-stream-processing">Tutorial on RDF Stream Processing</h1>
+
+<p><a href="http://2014.eswc-conferences.org/" title="go the ESWC 2014 Website!" target="_blank" rel="noopener noreferrer"><img src="images/eswc2014-teaser.jpg" alt=""></a></p>
+
+<p><a href="#abstract">Abstract</a> <a href="#motivation">Motivation</a> <a href="#outcomes">Outcomes</a> <a href="#audience">Audience</a> <a href="#ww">When &amp; Where</a> <a href="#schedule">Schedule</a> <a href="#presenters">Presenters</a> <a href="#ab">Advisory Board</a></p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>The tutorial provides a comprehensive view of the RDF-Stream Processing (RSP) research area. It consists of four parts. The first one introduces the RSP basic concepts: RDF streams to represent temporally-ordered sequence of data items; continuous SPARQL extensions to query RDF streams, and RSP engines to execute continuous query answering over RDF streams. The second part presents the available RSP engine implementations. It starts with an overview on the existing RSP engines, highlighting similarities and differences among them. Next, two existing implementations are analysed in depth: C-SPARQL and SPARQLstream. The third part is a hands-on session where the attendees learn how to (1) use the three presented RSP engines presented above and (2) let the systems interact among them. Finally, the fourth part of the tutorial provides an overview on RSP-related topics: RSP engine benchmarking, stream reasoning and real-world deployments. The tutorial closes with a discussion on the open challenges and the research problems of this research field.</p>
+
+<h2 id="motivation">Motivation</h2>
+
+<p>Nowadays, more and more dynamic information is becoming available to decision makers in the form of continuous data streams. These data streams occur in a variety of modern applications, such as network monitoring, traffic engineering, sensor networks, RFID tags, micro posts, telecom records, Web logs, click streams, etc. Processing these continuous flows of information and reasoning taking into account ontological knowledge is certainly one of the key challenges for semantics in the future Internet. The online and continuous query answering over highly dynamic and heterogeneous data has received attention only<br>
+very recently. The combination of query answering techniques with data streams gives rise to RDF-Stream Processing, a high impact research area that has already produced results that are relevant for both the semantic and data processing communities. This tutorial aims at introducing different existing approaches for querying over RDF data streams, and providing the audience with an overview of techniques and tools that can be used for this purpose. The contents of this tutorial are relevant for ESWC as it focuses on the query answering in the context of streaming data that is ubiquitous in a large number of applications on the Web. Attendees will learn the main concepts of RSP (e.g., what is a window and how it works), and they will learn how to write and execute continuous queries over RDF streams.</p>
+
+<h2 id="outcomes">Outcomes</h2>
+
+<p>The learning outcomes are:</p>
+
+<ul>
+  <li>an overview on the basic concepts in RDF stream processing: extensions to RDF and SPARQL to model data streams and query them in a continuous fashion;</li>
+  <li>an overview (and a comparison ) of the most relevant available implementations, with a particular focus on C-SPARQL and SPARQLstream (that will be used during the hands-on sessions).</li>
+</ul>
+
+<h2 id="audience">Audience</h2>
+
+<p>The tutorial targets researchers with a basic knowledge of Semantic Web (i.e., RDF, query answering system, SPARQL). In the hands-on session we will use graphical user interfaces, to allow everyone (even who does not have Jave or an IDE installed) to try the systems.</p>
+
+<h2 id="when-and-where">When and Where</h2>
+
+<p>The tutorial is scheduled for May 25th, 2014 in conjunction with <a href="http://2014.eswc-conferences.org/" target="_blank" rel="noopener noreferrer">ESWC 2014</a>.</p>
+
+<h2 id="schedule">Schedule</h2>
+
+<p>14.30 - 14.45 Introduction to RDF-stream processing (15m)<br>
+14.45 - 16.00 RDF stream models, RDF stream processing models and implementations (90 min) [<a href="/slides/2014/05/rsp2014-01-rsp-models.pdf" title="slide">slide</a>]<br>
+16.00 - 16.30 Coffee break<br>
+16.30 - 17.45 Hands-on Session (90m) [<a href="/slides/2014/05/rsp2014-02-csparql.pdf" title="c-sparql">c-sparql</a>][<a href="/slides/2014/05/rsp2014-02-csparql-handson.pdf" title="c-sparql hands-on">c-sparql2</a>][<a href="/slides/2014/05/rsp2014-03-sparqlstream.pdf">sparqlstream1</a>][<a href="/slides/2014/05/rsp2014-04-sparqlstream_handson.pdf">sparqlstream2</a>]<br>
+17.45 - 18.00 (Open research problems and) wrap-up (15m)</p>
+
+<h2 id="presenters">Presenters</h2>
+
+<p><a href="http://jeanpi.org/wp/" target="_blank" rel="noopener noreferrer">Jean-Paul Calbimonte</a>, École Polytechnique Fédérale de Lausanne<br>
+<a href="http://www.dellaglio.org/" target="_blank" rel="noopener noreferrer">Daniele Dell’Aglio</a>, Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano<br>
+<a href="it.linkedin.com/in/mbalduini">Marco Balduini</a>, Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano</p>
+
+<h2 id="advisory-board">Advisory Board</h2>
+
+<p><a href="http://emanueledellavalle.org/" target="_blank" rel="noopener noreferrer">Emanuele Della Valle</a>, Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano<br>
+<a href="http://www.oeg-upm.net/index.php/en/teachers/11-ocorcho" target="_blank" rel="noopener noreferrer">Oscar Corcho</a>, Facultad de Informatica, Universidad Politécnica de Madrid</p>
 
           </article>
 

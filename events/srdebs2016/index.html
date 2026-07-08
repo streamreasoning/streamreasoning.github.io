@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://streamreasoning.github.io/" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Stream Reasoning | Page not found</title>
+    <title>Stream Reasoning | SRT@DEBS2016</title>
     <meta name="author" content="  " />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="a project with a background image" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://streamreasoning.github.io/404.html">
+    <link rel="canonical" href="https://streamreasoning.github.io/events/srdebs2016/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -101,12 +101,114 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">SRT@DEBS2016</h1>
+            <p class="post-description">a project with a background image</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://streamreasoning.github.io/">here</a>.</p>
+            <h1 id="tutorial-on-stream-reasoning-managing-velocity-and-variety-in-big-data-at-debs-2016">Tutorial on Stream Reasoning: Managing Velocity and Variety in Big Data at DEBS 2016</h1>
+
+<p><strong>June 20th, 2016<br>
+**</strong>Irvine, California, US**<br>
+<strong>Co-located with the 10th International Conference on Distributed and Event-Based Systems (<a href="http://www.debs2016.org/" target="_blank" rel="noopener noreferrer">DEBS 2016</a>)</strong></p>
+
+<p><a href="#abstract">Abstract</a> <a href="#program">Program</a> <a href="#pre">Prerequisite knowledge</a> <a href="#paper">Tutorial paper</a> <a href="#team">The team of presenters</a></p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Many “big data” applications must process large volumes of heterogeneous data in real-time or near real-time to create new knowledge. The research on Semantic Web has focused on the variety of data, devising data representation and processing techniques that promote the integration and reasoning on available data to produce new knowledge. On the other hand, the community working on event and stream processing has focused on the velocity of data, producing systems that efficiently operate on streams of data on-the-fly according to pre-deployed processing rules or queries.</p>
+
+<p>Several recent works explore the synergy between stream processing and reasoning to fully capture the requirements of modern data intensive applications. This gave birth to the research domain of stream reasoning. This tutorial offers a detailed presentation of the theoretical and technological achievements in stream reasoning, highlighting the key benefits and limitations of existing approaches, and discussing the open issues and opportunities for future research.</p>
+
+<p>The tutorial is conceived for an audience that is familiar with the models and systems for event and stream processing. It aims to further promote the integration of reasoning and event and stream processing in two ways: (i) it presents an active research domain, where researchers on event and stream processing can apply their expertise; (ii) it overviews reasoning techniques and technologies that can help advancing the state of the art in event and stream processing.</p>
+
+<h2 id="program">Program</h2>
+
+<h3 id="first-part-introduction-to-rdf-stream-processing-and-reasoning---1330---1500-slides">First part: Introduction to RDF Stream Processing and Reasoning - 13.30 - 15.00 [<a href="/slides/2016/06/srt2016_stream_reasoning_part_1.pdf">slides</a>]</h3>
+
+<h4 id="introduction-to-stream-reasoning-30-min">Introduction to Stream Reasoning (30 min)</h4>
+
+<p>The first session gives an overview of the Stream Reasoning research area, covering:</p>
+
+<ul>
+  <li>Challenges, and how existing systems (DSMS/CEP, Semantic Web) address them</li>
+  <li>Scope of Stream Reasoning research area</li>
+  <li>Existing Systems (quick introduction and high-level comparison)</li>
+</ul>
+
+<h4 id="semantic-web-technologies-30-min">Semantic Web Technologies (30 min)</h4>
+
+<p>This session covers:</p>
+
+<ul>
+  <li>Introduction to the W3C Semantic Web Stack</li>
+  <li>Overview of the RDF model</li>
+  <li>Overview of the SPARQL query language</li>
+  <li>Overview on reasoning (in particular in the context of query answering)</li>
+</ul>
+
+<h4 id="stream-reasoning-naive-approaches-30-min">Stream Reasoning: Naive Approaches (30 min)</h4>
+
+<p>This session covers:</p>
+
+<ul>
+  <li>Problem definition and challenges</li>
+  <li>Full goal drive approaches on each snapshot</li>
+  <li>Materialization of each snapshot in a stream</li>
+  <li>Query rewriting based approaches</li>
+  <li>the DReD approach for incremental maintenance of materialisations</li>
+</ul>
+
+<h3 id="coffee-break-1500---1530">Coffee Break: 15:00 - 15:30</h3>
+
+<h3 id="second-part-stream-reasoning---1530---1700-slides">Second part: Stream Reasoning - 15:30 - 17:00 [<a href="/slides/2016/06/srt2016_stream_reasoning_part_2.pdf">slides</a>]</h3>
+
+<h4 id="stream-reasoning-advanced-approaches-60-min">Stream Reasoning: Advanced Approaches (60 min)</h4>
+
+<p>This session covers:</p>
+
+<ul>
+  <li>DynamiTE</li>
+  <li>TrOWL</li>
+  <li>IMaRS</li>
+  <li>Sparkwave</li>
+  <li>RDF Stream Reasoning with GPUs</li>
+  <li>ETALIS and EP-SPARQL</li>
+  <li>Stream Reasoning with ASP</li>
+  <li>STARQL</li>
+  <li>LARS</li>
+</ul>
+
+<h4 id="wrap-up-and-conclusions-30-min">Wrap-up and conclusions (30 min)</h4>
+
+<p>This session covers:</p>
+
+<ul>
+  <li>Achievements of existing approaches w.r.t. Stream Reasoning Challenges</li>
+  <li>Open problems and a revised Stream Reasoning research agenda</li>
+  <li>Open Q/A</li>
+</ul>
+
+<h2 id="prerequisite-knowledge">Prerequisite knowledge</h2>
+
+<p>We do not assume prior knowledge of Semantic Web technologies and we dedicate the first part of the tutorial to introduce the terminology and concepts in the domain of Semantic Web and reasoning. We assume the audience to be familiar with the fundamental models and technologies for event and stream processing.</p>
+
+<p>The last part of the tutorial will investigate the similarities and differences between stream reasoning and event and stream processing. This is intended to stimulate the discussion on the open issues in the fields and on the opportunities for integration. We will specifically address open problems that fit in the domain of expertise of the DEBS attendees, such as parallel and distributed processing of streaming data.</p>
+
+<h2 id="tutorial-paper">Tutorial Paper</h2>
+
+<p>A tutorial <a href="https://dl.acm.org/citation.cfm?id=2933539&amp;CFID=800410691&amp;CFTOKEN=37340458" target="_blank" rel="noopener noreferrer">paper</a> with a summary of the tutorial can be found in the DEBS proceedings.</p>
+
+<h2 id="the-team-of-presenters">The team of presenters</h2>
+
+<ul>
+  <li>
+<a href="http://emanueledellavalle.org/" target="_blank" rel="noopener noreferrer">Emanuele Della Valle</a> (Politecnico di Milano)</li>
+  <li>
+<a href="http://www.dellaglio.org/" target="_blank" rel="noopener noreferrer">Daniele Dell’Aglio</a> (Politecnico di Milano)</li>
+  <li>
+<a href="#">Alessandro Margara</a> (Politecnico di Milano)</li>
+</ul>
 
           </article>
 
